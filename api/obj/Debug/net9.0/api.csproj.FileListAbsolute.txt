@@ -31,3 +31,4 @@ C:\Users\vladv\OneDrive\Desktop\virtutradex\api\obj\Debug\net9.0\refint\api.dll
 C:\Users\vladv\OneDrive\Desktop\virtutradex\api\obj\Debug\net9.0\api.pdb
 C:\Users\vladv\OneDrive\Desktop\virtutradex\api\obj\Debug\net9.0\api.genruntimeconfig.cache
 C:\Users\vladv\OneDrive\Desktop\virtutradex\api\obj\Debug\net9.0\ref\api.dll
+C:\Users\vladv\OneDrive\Desktop\virtutradex\api\obj\Debug\net9.0\api.sourcelink.json

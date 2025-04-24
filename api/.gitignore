@@ -1,0 +1,82 @@
+## Build results
+bin/
+obj/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## VS Code
+.vscode/
+
+## Rider
+.idea/
+
+## Mac system files
+.DS_Store
+
+## Windows image file caches
+Thumbs.db
+
+## Logs
+*.log
+
+## NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+
+## Publish outputs
+publish/
+out/
+
+## DotNetCore
+*.dbmdl
+*.bak
+*.sql
+*.pdb
+
+# Auto-generated files
+Generated\ Files/
+
+# Entity Framework
+Migrations/
+
+# Optional: If you're using secrets in development
+secrets.json
+
+# Optional: Ignore user secrets folder (for dev secrets)
+**/appsettings.Development.json
+
+# Test results
+TestResults/
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# JetBrains Rider
+.idea/
+
+# npm or yarn stuff (if you use front-end tooling in the same project)
+node_modules/
+
+# Docker
+*.pid
+*.tar
+*.gz
+.dockerignore
+
+# Others
+*.vspscc
+*.vssscc
+_ReSharper*/
