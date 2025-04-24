@@ -7,7 +7,7 @@ services:
     restart: always
     environment:
       MYSQL_ROOT_PASSWORD: root
-      MYSQL_DATABASE: parola01
+      MYSQL_DATABASE: virtutradex
       MYSQL_USER: user
       MYSQL_PASSWORD: parola01
     ports:
@@ -20,8 +20,8 @@ services:
     container_name: phpmyadmin
     restart: always
     environment:
-      PMA_HOST: admin
-      MYSQL_ROOT_PASSWORD: admin
+      PMA_HOST: mysql
+      MYSQL_ROOT_PASSWORD: root
     ports:
       - "8080:80"
     depends_on:
